@@ -1,14 +1,14 @@
 ## Hey 👋, I'm Jay Patel!
 <a href="https://www.linkedin.com/in/jay8patel/">
-  <img align="left" alt="linkedin" src="https://raw.githubusercontent.com/jay8patel/jay8patel/main/assets/icons/linkedin.png" height="28px"/>
+  <img align="left" alt="linkedin" src="https://raw.githubusercontent.com/jay8patel/jay8patel/main/assets/icons/linkedin.png" height="69px"/>
 </a>
 
 <a href="mailto:jaykp7246@gmail.com">
-  <img align="left" alt="email" src="https://raw.githubusercontent.com/jay8patel/jay8patel/main/assets/icons/gmail.png" height="28px"/>
+  <img align="left" alt="email" src="https://raw.githubusercontent.com/jay8patel/jay8patel/main/assets/icons/gmail.png" height="69px"/>
 </a>
 
 <a href="https://github.com/jay8patel">
-  <img alt="github" src="https://raw.githubusercontent.com/jay8patel/jay8patel/main/assets/icons/github.png" height="28px"/>
+  <img alt="github" src="https://raw.githubusercontent.com/jay8patel/jay8patel/main/assets/icons/github.png" height="69px"/>
 </a>
 
 <br/><br/>
