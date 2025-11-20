@@ -4,11 +4,11 @@
 </a>
 
 <a href="mailto:jaykp7246@gmail.com">
-  <img align="left" alt="email" src="https://raw.githubusercontent.com/jay8patel/jay8patel/main/assets/icons/gmail.png" height="32px"/>
+  <img align="left" alt="email" src="https://raw.githubusercontent.com/jay8patel/jay8patel/main/assets/icons/gmail.png" height="100px"/>
 </a>
 
 <a href="https://github.com/jay8patel">
-  <img alt="github" src="https://raw.githubusercontent.com/jay8patel/jay8patel/main/assets/icons/github.png" height="32px"/>
+  <img alt="github" src="https://raw.githubusercontent.com/jay8patel/jay8patel/main/assets/icons/github.png" height="100px"/>
 </a>
 
 <br/><br/>
