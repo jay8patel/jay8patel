@@ -62,12 +62,5 @@ I love working with **Python, cloud infrastructure, AI agents, and scalable syst
 
 </a>
 
-<br>
 
-### 🛠️ My Projects
-<a href="https://github.com/jay8patel/JackBull-Trading-Engine" target="_blank"> <img alt="jackbull" src="./projects/jackbull.svg" height="68" align="left"> </a>
-<a href="https://github.com/jay8patel/LLM-Agent-Framework" target="_blank"> <img alt="llm-agents" src="./projects/llmagents.svg" height="68" align="left"> </a>
-<a href="https://github.com/jay8patel/github-activity-generator" target="_blank"> <img alt="gh-activity" src="./projects/ghactivity.svg" height="68" align="left"> </a>
-<a href="https://github.com/jay8patel" target="_blank"> <img alt="other-projects" src="./projects/projects.svg" height="68" align="left"> </a>
-
-<br><br><br>
+<br><br>
