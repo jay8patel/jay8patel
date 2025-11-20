@@ -1,135 +1,104 @@
-<h1 align="center">Hi, I'm Jay Patel 👋</h1>
-<h3 align="center">Software Engineer • AI Developer • Cloud Engineer | CS @ Rutgers</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jay8patel&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<h1 align="center">Jay Patel</h1>
+<h3 align="center">Software Engineer — AI Systems • Cloud Infrastructure • Distributed Systems</h3>
 
 ---
 
-## 🚀 About Me
-I am a Software Engineer specializing in **AI/ML systems**, **cloud platforms**, **backend engineering**, and **automation**.  
-My work spans **AI-powered systems**, **large-scale backend services**, and **cloud-native applications** that solve real business challenges.
+## Overview
+I build high-reliability software at the intersection of **AI systems**, **distributed computing**, and **cloud infrastructure**.  
+My focus is on designing scalable backend architectures, intelligent automation pipelines, and ML-driven systems optimized for performance, resilience, and operational clarity.
 
-I love building:
-- ⚙️ **AI agents**
-- ☁️ **Cloud-native automation**
-- 🔁 **High-performance backend systems**
-- 🤖 **ML-powered products**
-- 📈 **Fintech & trading tools**
-
-Always pushing to level up, optimize, and deliver impact.
+I care deeply about **clean architecture, system correctness, developer experience, and long-term maintainability**.
 
 ---
 
-## 🧠 Core Technical Skills
+## Technical Expertise
 
-### 🚀 Programming Languages
-**Python**, Java, C, C++, JavaScript, Bash
+### Systems & Backend Engineering
+- Systems programming (Python, Java, C/C++)  
+- Distributed systems design & scalable API architectures  
+- High-volume data processing & pipeline design  
+- Microservices, containerized workloads, and cloud-native services  
+- Observability, reliability engineering, and performance tuning  
 
-### ⚙️ Backend & Systems Engineering
-- REST APIs • Microservices Architecture  
-- Linux Systems • Git • CI/CD (GitHub Actions, Jenkins)  
-- Docker • Containerized Services  
-- Distributed Systems & Scalable Design
+### Cloud Infrastructure
+- AWS (EC2, Lambda, DynamoDB, S3, API Gateway)  
+- Azure cloud architecture  
+- CI/CD pipelines (GitHub Actions, Jenkins)  
+- Docker-based environments and automated deployments  
+- Infrastructure automation & serverless compute patterns  
 
-### ☁️ Cloud Platforms
-- **AWS:** EC2, Lambda, S3, DynamoDB  
-- **Azure Cloud Services**  
-- Cloud Infrastructure Automation  
-- Serverless App Design
-
-### 🤖 AI / Machine Learning
-- LLMs • Embeddings • RAG Pipelines  
-- LangChain, OpenAI API  
-- NLP • Model Optimization  
-- Multi-Agent Systems
-
-### 📊 Databases
-- PostgreSQL • MySQL • MongoDB  
-- Redis • DynamoDB
-
-### 🧪 Tools & Frameworks
-- React • Node.js  
-- Scikit-learn • Pandas  
-- Postman • VS Code  
-- GitHub Actions (DevOps Automation)
+### AI / ML Engineering
+- LLM systems, embeddings infrastructure  
+- Retrieval-augmented generation (RAG) pipelines  
+- Agent-based automation frameworks  
+- Model evaluation, optimization, and inference tooling  
+- ML-driven analytics and intelligent decision systems  
 
 ---
 
-## 🔥 Featured Experience
+## Selected Projects
 
-### 🧠 **AI Developer Intern — CustomBoxes.io (2025)**
-- Built **AI-powered automation** for product customization workflows.  
-- Developed real-time processing pipelines using Python.  
-- Implemented CI/CD pipelines with GitHub Actions.  
-- Improved latency & internal processes with cloud-based automation.
+### AI Systems
+**LLM Automation & Reinforcement Engine**  
+A modular multi-agent system integrating vector search, RAG orchestration, and intelligent task execution pipelines.  
+Built architecture for embeddings retrieval, agent routing, workflow composition, and model-driven decision automation.
 
----
-
-### 💼 **Software Engineer Intern — Datsura (2025)**
-- Created **internal automation tools** for operational efficiency.  
-- Enhanced system reliability via improved monitoring scripts.  
-- Supported cloud migration & infrastructure optimization.
+**Model-Driven Signal Engine (JackBull)**  
+An AI-enhanced trading analytics engine using momentum modeling, ATR-grid logic, and multi-asset feature fusion.  
+Optimized for low-latency decisioning across ETH, XAU, and index futures.  
+Focused on system reliability and deterministic compute flows.
 
 ---
 
-### 🏢 **IT Support / CSR — Ashley HomeStore**
-- Troubleshot POS systems, networks, CRM platforms.  
-- Maintained operational software & inventory systems.  
-- Helped train new hires and supported store operations.
+### Cloud & Infra Engineering
+**Automated CI/CD & GitHub Activity Pipeline**  
+Designed a secure workflow automation system using GitHub Actions, containerized scripts, and scheduled SSH-backed deployments.  
+Developed a reproducible and monitored CI pipeline used for automation and data generation tasks.
+
+**Cloud API Tooling & Serverless Automation**  
+Developed event-driven Lambda pipelines for data ingestion, transformation, and analytics triggers.  
+Implemented fault-tolerant routing, structured logs, and scalable compute boundaries.
 
 ---
 
-## 💡 Major Projects
+### Backend & Data Systems
+**High-Reliability API Services**  
+Built backend services under strict uptime and correctness requirements, with structured logging, defensive error design, and optimized request lifecycles.
 
-### 🚀 **JackBull Trading Engine**
-AI-driven trading platform featuring:
-- SuperTrend, ATR Grid, RSI-based custom indicators  
-- LLM-powered momentum analyzer  
-- Multi-asset dashboard (ETH, XAU, Indices)  
-- Advanced risk management automation  
-**Tech:** Python, Pandas, TradingView, MT5, Cloud APIs
+**Data Pipeline Frameworks**  
+Created streaming & batch ingestion systems with validation layers, throttled workloads, and parallelized execution.
 
 ---
 
-### 🔍 **LLM Agents & Reinforcement Engine**
-- Multi-agent architecture for intelligent task automation  
-- RAG search engine with vector embeddings  
-- Intelligent workflow chaining and agent coordination  
-**Tech:** Python, LangChain, OpenAI, Pinecone
+## Engineering Values
+- Systems thinking & architectural clarity  
+- Reliability, correctness, and low-friction design  
+- Strong debugging and distributed-system reasoning  
+- Clean, maintainable code with long-term ownership  
+- High standards for documentation and developer experience  
 
 ---
 
-### 📦 **GitHub Activity Generator (Workflow Automation)**
-- Automated commit generator using Python + GitHub Actions  
-- Designed CI/CD pipelines for scheduled activity  
-**Tech:** Python, YAML, GitHub Actions
+## Technology Stack
+**Languages:** Python, Java, C/C++, Bash  
+**Cloud:** AWS, Azure  
+**Compute:** Docker, Linux, Serverless  
+**AI/ML:** LLMs, RAG, Agents, LangChain, Vector Databases  
+**Data:** PostgreSQL, MySQL, MongoDB, Redis, DynamoDB  
+**Tools:** GitHub Actions, Jenkins, VS Code, Postman  
 
 ---
 
-## 🎓 Education
+## Education
 **Rutgers University — B.S. Computer Science**  
 Coursework includes:  
-Machine Learning • Algorithms • Cloud Computing • Databases • Computer Architecture • Software Engineering
+Distributed Systems, Cloud Computing, Machine Learning, Data Management, Algorithms, Computer Architecture.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jay8patel&theme=dark" alt="GitHub Streak Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=jay8patel&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
+## Contact
+**LinkedIn:** https://linkedin.com/in/jay8patel  
+**Email:** jaykp7246@gmail.com  
 
 ---
 
-## 🤝 Let's Connect
-- 🔗 **LinkedIn:** https://linkedin.com/in/jay8patel  
-- 🌐 **Portfolio:** coming soon  
-- 📧 **Email:** jaykp7246@gmail.com  
-
----
-
-⭐ *Always building. Always learning. Always shipping.*  
