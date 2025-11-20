@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Jay Patel!
 <a href="https://www.linkedin.com/in/jay8patel/">
-  <img align="left" alt="linkedin" src="https://raw.githubusercontent.com/jay8patel/jay8patel/main/assets/icons/linkedin.png" height="32px"/>
+  <img align="left" alt="linkedin" src="https://raw.githubusercontent.com/jay8patel/jay8patel/main/assets/icons/linkedin.png" height="200px"/>
 </a>
 
 <a href="mailto:jaykp7246@gmail.com">
