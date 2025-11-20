@@ -1,104 +1,114 @@
 <h1 align="center">Jay Patel</h1>
-<h3 align="center">Software Engineer — AI Systems • Cloud Infrastructure • Distributed Systems</h3>
+<h3 align="center">Software Engineer | AI & Distributed Systems | Cloud & Infra | CS @ Rutgers</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/jay8patel">LinkedIn</a> •
+  <a href="mailto:jaykp7246@gmail.com">Email</a>
+</p>
 
 ---
 
-## Overview
-I build high-reliability software at the intersection of **AI systems**, **distributed computing**, and **cloud infrastructure**.  
-My focus is on designing scalable backend architectures, intelligent automation pipelines, and ML-driven systems optimized for performance, resilience, and operational clarity.
+## 🧩 About Me
 
-I care deeply about **clean architecture, system correctness, developer experience, and long-term maintainability**.
+Software Engineer with a strong emphasis on **AI systems, distributed backend engineering, cloud infrastructure, and automation**.  
+My work bridges **high-performance systems**, **AI/ML engineering**, and **scalable cloud-native architectures**.
 
----
-
-## Technical Expertise
-
-### Systems & Backend Engineering
-- Systems programming (Python, Java, C/C++)  
-- Distributed systems design & scalable API architectures  
-- High-volume data processing & pipeline design  
-- Microservices, containerized workloads, and cloud-native services  
-- Observability, reliability engineering, and performance tuning  
-
-### Cloud Infrastructure
-- AWS (EC2, Lambda, DynamoDB, S3, API Gateway)  
-- Azure cloud architecture  
-- CI/CD pipelines (GitHub Actions, Jenkins)  
-- Docker-based environments and automated deployments  
-- Infrastructure automation & serverless compute patterns  
-
-### AI / ML Engineering
-- LLM systems, embeddings infrastructure  
-- Retrieval-augmented generation (RAG) pipelines  
-- Agent-based automation frameworks  
-- Model evaluation, optimization, and inference tooling  
-- ML-driven analytics and intelligent decision systems  
+I enjoy designing **robust system architectures**, building **automation pipelines**, and optimizing **AI-driven workflows** that power real products.
 
 ---
 
-## Selected Projects
+## 🛠 Core Engineering Domains
 
-### AI Systems
-**LLM Automation & Reinforcement Engine**  
-A modular multi-agent system integrating vector search, RAG orchestration, and intelligent task execution pipelines.  
-Built architecture for embeddings retrieval, agent routing, workflow composition, and model-driven decision automation.
+### **Distributed Systems & Backend Engineering**
+- Systems Design • High-throughput APIs  
+- Microservices • Load Balancing • Caching • Queues  
+- Concurrency Models • Async Architectures  
+- Linux Internals • Shell, Networking (TCP/IP)  
 
-**Model-Driven Signal Engine (JackBull)**  
-An AI-enhanced trading analytics engine using momentum modeling, ATR-grid logic, and multi-asset feature fusion.  
-Optimized for low-latency decisioning across ETH, XAU, and index futures.  
-Focused on system reliability and deterministic compute flows.
+### **Cloud & DevOps**
+- **AWS** (EC2, Lambda, S3, DynamoDB, IAM)  
+- Docker • CI/CD Pipelines • GitHub Actions  
+- Infrastructure Automation • Monitoring  
 
----
+### **Machine Learning & AI Systems**
+- LLM Agents • Embeddings • RAG Systems  
+- LangChain • OpenAI API  
+- NLP Pipelines • Model Optimization  
+- ML Ops Fundamentals  
 
-### Cloud & Infra Engineering
-**Automated CI/CD & GitHub Activity Pipeline**  
-Designed a secure workflow automation system using GitHub Actions, containerized scripts, and scheduled SSH-backed deployments.  
-Developed a reproducible and monitored CI pipeline used for automation and data generation tasks.
-
-**Cloud API Tooling & Serverless Automation**  
-Developed event-driven Lambda pipelines for data ingestion, transformation, and analytics triggers.  
-Implemented fault-tolerant routing, structured logs, and scalable compute boundaries.
-
----
-
-### Backend & Data Systems
-**High-Reliability API Services**  
-Built backend services under strict uptime and correctness requirements, with structured logging, defensive error design, and optimized request lifecycles.
-
-**Data Pipeline Frameworks**  
-Created streaming & batch ingestion systems with validation layers, throttled workloads, and parallelized execution.
+### **Programming**
+- **Python**, Java, C, C++, JavaScript  
+- Bash • SQL • Systems Programming  
 
 ---
 
-## Engineering Values
-- Systems thinking & architectural clarity  
-- Reliability, correctness, and low-friction design  
-- Strong debugging and distributed-system reasoning  
-- Clean, maintainable code with long-term ownership  
-- High standards for documentation and developer experience  
+## 🚀 Selected Experience
+
+### **AI Developer — CustomBoxes.io**
+- Designed **AI automation pipelines** for product operations and data workflows.  
+- Built Python systems for **real-time processing**, ML integration, and internal tooling.  
+- Architected CI/CD pipelines through GitHub Actions.
+
+### **Software Engineer Intern — Datsura**
+- Developed backend tools improving internal systems reliability.  
+- Created cloud-based automation scripts and monitoring utilities.  
+- Contributed to infra migrations and API enhancements.
+
+### **IT Support / CSR — Ashley HomeStore**
+- Supported storewide systems, POS integrations, and network troubleshooting.  
+- Managed data corrections and operational tooling.  
+- Trained and onboarded new technical staff.
 
 ---
 
-## Technology Stack
-**Languages:** Python, Java, C/C++, Bash  
-**Cloud:** AWS, Azure  
-**Compute:** Docker, Linux, Serverless  
-**AI/ML:** LLMs, RAG, Agents, LangChain, Vector Databases  
-**Data:** PostgreSQL, MySQL, MongoDB, Redis, DynamoDB  
-**Tools:** GitHub Actions, Jenkins, VS Code, Postman  
+## 🔬 Major Engineering Projects
+
+### **⚡ JackBull Trading Engine — AI/ML Trading Infrastructure**
+- Multi-signal engine (SuperTrend, ATR Grid, RSI Momentum)  
+- LLM-powered momentum predictor  
+- Full risk system + portfolio analytics  
+- Cloud-deployed dashboards and automation  
+**Stack:** Python, Pandas, MetaTrader5, TradingView API, Cloud Functions
 
 ---
 
-## Education
-**Rutgers University — B.S. Computer Science**  
-Coursework includes:  
-Distributed Systems, Cloud Computing, Machine Learning, Data Management, Algorithms, Computer Architecture.
+### **🧠 LLM Agents & Reinforcement System**
+- Multi-agent architecture (Planning, Retrieval, Execution)  
+- Vector storage + embeddings + intelligent tool use  
+- Reinforcement-driven decision loops  
+**Stack:** Python, LangChain, OpenAI API, Pinecone  
 
 ---
 
-## Contact
-**LinkedIn:** https://linkedin.com/in/jay8patel  
-**Email:** jaykp7246@gmail.com  
+### **🔧 GitHub Activity Generator (CI/CD Automation)**
+- Automated commit/activity system using Python.  
+- Scheduled workflows with SSH-based pushes.  
+**Stack:** Python, GitHub Actions  
 
 ---
 
+## 🧰 Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,bash,linux,git,github,docker,aws,azure,mongodb,mysql,postgres,redis,react,nodejs,fastapi" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jay8patel&theme=dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jay8patel&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+- **LinkedIn:** https://linkedin.com/in/jay8patel  
+- **Email:** jaykp7246@gmail.com  
+- **Portfolio:** Coming Soon
+
+---
+
+<p align="center"><i>Building reliable systems. Scaling real products. Delivering impact.</i></p>
