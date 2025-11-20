@@ -56,9 +56,9 @@ I love working with **Python, cloud infrastructure, AI agents, and scalable syst
 
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/jay8patel/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/jay8patel/github-stats-transparent/output/generated/languages.svg)
+
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=jay8patel&show_icons=true&theme=transparent&hide_title=false&rank_icon=github)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jay8patel&layout=compact&theme=transparent)
 
 </a>
 
