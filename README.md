@@ -62,8 +62,10 @@ I love working with **Python, cloud infrastructure, AI agents, and scalable syst
 
 </a>
 
-## 📈 Contribution Activity
-![Jay's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jay8patel&theme=react-dark&hide_border=true&area=true)
+---
+<p align="center">
+  Built with ❤️ by Jay Patel • Always learning, always building.
+</p>
 
 
 <br><br>
