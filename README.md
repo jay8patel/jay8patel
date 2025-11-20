@@ -1,7 +1,15 @@
 ## Hey 👋, I'm Jay Patel!
-<a href='https://www.linkedin.com/in/jay8patel/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='mailto:jaykp7246@gmail.com'><img align='left' alt="email" src="https://raw.githubusercontent.com/jay8patel/jay8patel/main/assets/icons/gmail.png" height='18px'/></a>
-<a href='https://github.com/jay8patel'><img alt="github" src="https://raw.githubusercontent.com/jay8patel/jay8patel/main/assets/icons/github.png" height='18px'/></a>
+<a href="https://www.linkedin.com/in/jay8patel/">
+  <img align="left" alt="linkedin" src="https://raw.githubusercontent.com/jay8patel/jay8patel/main/assets/icons/linkedin.png" height="28px"/>
+</a>
+
+<a href="mailto:jaykp7246@gmail.com">
+  <img align="left" alt="email" src="https://raw.githubusercontent.com/jay8patel/jay8patel/main/assets/icons/gmail.png" height="28px"/>
+</a>
+
+<a href="https://github.com/jay8patel">
+  <img alt="github" src="https://raw.githubusercontent.com/jay8patel/jay8patel/main/assets/icons/github.png" height="28px"/>
+</a>
 
 <br/><br/>
 
