@@ -67,7 +67,9 @@ I love working with **Python, cloud infrastructure, AI agents, and scalable syst
   Built with ❤️ by Jay Patel • Always learning, always building.
 </p>
 
-![Pacman](https://raw.githubusercontent.com/sindresorhus/pure/master/media/pacman.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jay8patel/jay8patel/main/assets/icons/long%20Icon.png" height="140px" />
+</p>
 
 
 <br><br>
