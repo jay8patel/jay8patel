@@ -67,7 +67,7 @@ I love working with **Python, cloud infrastructure, AI agents, and scalable syst
   Built with ❤️ by Jay Patel • Always learning, always building.
 </p>
 
-![snake gif](https://raw.githubusercontent.com/jay8patel/jay8patel/output/snake.svg)
+![GitHub Snake Dark](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 
 <br><br>
