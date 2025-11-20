@@ -67,15 +67,8 @@ I love working with **Python, cloud infrastructure, AI agents, and scalable syst
 <p align="center">
   <img src="https://raw.githubusercontent.com/jay8patel/jay8patel/main/assets/icons/long%20Icon.png" height="140px" />
 </p>
----
 
-## 🎮 Fun Zone  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jay8patel/jay8patel/main/assets/icons/long%20Icon.png" height="140px" />
-</p>
-
----
 
 
 <br><br>
