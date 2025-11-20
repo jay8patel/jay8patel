@@ -1,106 +1,60 @@
-<h1 align="center">Jay Patel</h1>
-<h3 align="center">Software Engineer • Systems • AI/ML • Cloud</h3>
+## Hey 👋, I'm Jay Patel!
+<a href='https://www.linkedin.com/in/jay8patel/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='mailto:jaykp7246@gmail.com'><img align='left' alt="email" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/mail.svg" height='18px'/></a>
+<a href='https://github.com/jay8patel'><img alt="github" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/github.svg" height='18px'/></a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jay8patel&style=flat-square&color=grey" />
-</p>
+<br/><br/>
 
----
+I am a **Software Engineer** specializing in **AI/ML systems, backend engineering, automation pipelines, and cloud-native infrastructure**.  
+I build high-performance tools, LLM-powered systems, trading engines, and distributed backend services.
 
-## 🧩 Engineering Philosophy
-I build **high-performance systems**, **AI-driven automation**, and **scalable distributed services**.  
-My work focuses on **system design, backend engineering, cloud infrastructure, and applied ML**—with a strong emphasis on reliability, performance, and clean architecture.
+I love working with **Python, cloud infrastructure, AI agents, and scalable system design**.
 
-I enjoy working across:
-- **Systems Programming & API Engineering**
-- **LLM-based AI Agents & Automation**
-- **Distributed Cloud Services**
-- **Data Engineering & ML Pipelines**
-- **Developer Tooling & Infra Automation**
+<br/>
 
----
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-## ⚙️ Core Competencies
+### 🧐 More About Me:
+- 🔭 &nbsp; Currently building **JackBull AI Trading Engine**
+- 🤖 &nbsp; Exploring **LLM agents, cloud automation & RAG pipelines**
+- ⚙️ &nbsp; Most of my work lives on **[GitHub](https://github.com/jay8patel?tab=repositories)**
+- 📡 &nbsp; Working with **Cloud (AWS), Python automation, CI/CD**
+- 📘 &nbsp; Actively improving in **Distributed Systems & ML Engineering**
+- 💬 &nbsp; Ask me about **AI, ML, backend engineering, trading automation, or cloud infra**
+- 📫 &nbsp; Reach me on **[LinkedIn](https://linkedin.com/in/jay8patel)**
+- 📝 &nbsp; My Resume → *available upon request*
 
-### **Backend Engineering**
-- Python • Java • C • C++  
-- API Design • Microservices • Event-Driven Systems  
-- Linux Systems • Shell • Git • CI/CD
+<br>
 
-### **AI / Machine Learning**
-- LLMs • RAG • Embeddings  
-- LangChain • OpenAI API • Vector DBs  
-- Model Serving • Optimization
+### 🔨 Languages and Tools:
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://aws.amazon.com" target="_blank"><img align="left" alt="AWS" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/aws/aws.svg"></a>
+<a href="https://www.postgresql.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/postgresql/postgresql.svg" alt="postgres" height ="42px"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/mongodb/mongodb.svg" alt="mongo" height ="42px"/> </a>
+<a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg"></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+<a href="https://pytorch.org/" target="_blank"><img align="left" alt="pytorch" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg"></a>
+<a href="https://www.tensorflow.org" target="_blank"><img align="left" alt="tensorflow" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg"></a>
+<a href="https://www.figma.com/" target="_blank"><img align="left" alt="figma" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg"></a>
 
-### **Cloud & DevOps**
-- AWS (EC2, Lambda, S3, CloudWatch)  
-- Docker • GitHub Actions • Infra Automation  
-- Scalable Architecture Patterns  
+<br><br>
 
-### **Databases**
-- PostgreSQL • MySQL  
-- MongoDB • Redis  
-- DynamoDB
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/jay8patel/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/jay8patel/github-stats-transparent/output/generated/languages.svg)
 
----
+</a>
 
-## 🛠️ Selected Engineering Projects
+<br>
 
-### **JackBull Trading Engine**
-A multi-asset AI trading platform with:
-- Custom signal engines (ATR Grid, SuperTrend, RSI)
-- ML-based momentum predictor  
-- Risk-managed execution layer  
-- Cloud-synced dashboards  
-**Stack:** Python, Pandas, TradingView, MT5, Cloud APIs
+### 🛠️ My Projects
+<a href="https://github.com/jay8patel/JackBull-Trading-Engine" target="_blank"> <img alt="jackbull" src="./projects/jackbull.svg" height="68" align="left"> </a>
+<a href="https://github.com/jay8patel/LLM-Agent-Framework" target="_blank"> <img alt="llm-agents" src="./projects/llmagents.svg" height="68" align="left"> </a>
+<a href="https://github.com/jay8patel/github-activity-generator" target="_blank"> <img alt="gh-activity" src="./projects/ghactivity.svg" height="68" align="left"> </a>
+<a href="https://github.com/jay8patel" target="_blank"> <img alt="other-projects" src="./projects/projects.svg" height="68" align="left"> </a>
 
----
-
-### **Intelligent LLM Agent Framework**
-- Multi-agent orchestration  
-- RAG pipeline + vector retrieval  
-- Automated workflows via function-calling  
-**Stack:** Python, LangChain, OpenAI, Pinecone
-
----
-
-### **Cloud-Native GitHub Activity Generator**
-- GitHub Actions engine for automated commit generation  
-- Python-based workflow scheduler  
-**Stack:** Python, GitHub Actions, YAML
-
----
-
-## 💼 Experience
-
-### **AI Developer Intern — CustomBoxes.io**
-- Built production-grade AI automation pipelines  
-- Designed internal tooling for real-time tasks  
-- CI/CD integrations for automated deployments
-
-### **Software Engineering Intern — Datsura**
-- Python automation for internal systems  
-- Cloud optimization & monitoring workflows
-
-### **Technical Support Engineer — Ashley HomeStore**
-- System reliability, POS troubleshooting, network-level fixes  
-- Data corrections, CRM sync, operational tooling
-
----
-
-## 📊 GitHub Overview
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jay8patel&show_icons=true&theme=transparent&rank_icon=percentile" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay8patel&layout=compact&theme=transparent" />
-</p>
-
----
-
-## 🔗 Connect
-- **LinkedIn:** https://linkedin.com/in/jay8patel  
-- **Email:** jaykp7246@gmail.com  
-
----
-
-<p align="center"><i>Building reliable systems. Scaling ideas. Engineering impact.</i></p>
+<br><br><br>
