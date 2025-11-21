@@ -57,7 +57,7 @@ I love working with **Python, cloud infrastructure, AI agents, and scalable syst
 </a>
 <a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" height="42px" src="https://raw.githubusercontent.com/jay8patel/jay8patel/main/assets/icons/Linux.png"/></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank">
-  <img align="left" alt="FastAPI" height="42px" src="https://raw.githubusercontent.com/jay8patel/jay8patel/main/assets/icons/Linux.png"/>
+  <img align="left" alt="FastAPI" height="42px" src="https://raw.githubusercontent.com/jay8patel/jay8patel/main/assets/icons/api.png"/>
 </a>
 
 <br><br>
