@@ -55,12 +55,7 @@ I love working with **Python, cloud infrastructure, AI agents, and scalable syst
   <img align="left" alt="kubernetes" height="42px"
        src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kubernetes/kubernetes.svg"/>
 </a>
-
-<!-- Linux -->
-<a href="https://www.linux.org/" target="_blank">
-  <img align="left" alt="linux" height="42px"
-       src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/linux/linux.svg"/>
-</a>
+<a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" height="42px" src="https://raw.githubusercontent.com/jay8patel/jay8patel/main/assets/icons/Linux.png"/></a>
 
 <br><br>
 
