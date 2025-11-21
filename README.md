@@ -51,6 +51,16 @@ I love working with **Python, cloud infrastructure, AI agents, and scalable syst
 <a href="https://pytorch.org/" target="_blank"><img align="left" alt="pytorch" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg"></a>
 <a href="https://www.tensorflow.org" target="_blank"><img align="left" alt="tensorflow" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg"></a>
 <a href="https://www.figma.com/" target="_blank"><img align="left" alt="figma" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg"></a>
+<a href="https://kubernetes.io/" target="_blank">
+  <img align="left" alt="kubernetes" height="42px"
+       src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kubernetes/kubernetes.svg"/>
+</a>
+
+<!-- Linux -->
+<a href="https://www.linux.org/" target="_blank">
+  <img align="left" alt="linux" height="42px"
+       src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/linux/linux.svg"/>
+</a>
 
 <br><br>
 
